@@ -1,0 +1,27 @@
+[submodule "alx-higher_level_programming"]
+	path = alx-higher_level_programming
+	url = git@github.com:Emmanuel-Munubi/alx-higher_level_programming.git
+[submodule "alx-low_level_programming"]
+	path = alx-low_level_programming
+	url = git@github.com:Emmanuel-Munubi/alx-low_level_programming.git
+[submodule "alx-system_engineering-devops"]
+	path = alx-system_engineering-devops
+	url = git@github.com:Emmanuel-Munubi/alx-system_engineering-devops.git
+[submodule "binary_trees"]
+	path = binary_trees
+	url = git@github.com:Emmanuel-Munubi/binary_trees.git
+[submodule "sorting_algorithms"]
+	path = sorting_algorithms
+	url = git@github.com:Emmanuel-Munubi/sorting_algorithms.git
+[submodule "AirBnB_clone"]
+	path = AirBnB_clone
+	url = git@github.com:Emmanuel-Munubi/AirBnB_clone.git
+[submodule "printf"]
+	path = printf
+	url = git@github.com:Emmanuel-Munubi/printf.git
+[submodule "simple_shell"]
+	path = simple_shell
+	url = git@github.com:Emmanuel-Munubi/simple_shell.git
+[submodule "monty"]
+	path = monty
+	url = git@github.com:Emmanuel-Munubi/monty.git
