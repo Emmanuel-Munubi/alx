@@ -7,9 +7,6 @@
 [submodule "alx-system_engineering-devops"]
 	path = alx-system_engineering-devops
 	url = git@github.com:Emmanuel-Munubi/alx-system_engineering-devops.git
-[submodule "binary_trees"]
-	path = binary_trees
-	url = git@github.com:Emmanuel-Munubi/binary_trees.git
 [submodule "sorting_algorithms"]
 	path = sorting_algorithms
 	url = git@github.com:Emmanuel-Munubi/sorting_algorithms.git
