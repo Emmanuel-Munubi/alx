@@ -22,3 +22,6 @@
 [submodule "monty"]
 	path = monty
 	url = git@github.com:Emmanuel-Munubi/monty.git
+[submodule "binary_trees"]
+	path = binary_trees
+	url = git@github.com:akuya-ekorot/binary_trees.git
