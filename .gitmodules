@@ -25,3 +25,6 @@
 [submodule "binary_trees"]
 	path = binary_trees
 	url = git@github.com:akuya-ekorot/binary_trees.git
+[submodule "AirBnB_clone_v2"]
+	path = AirBnB_clone_v2
+	url = git@github.com:Emmanuel-Munubi/AirBnB_clone_v2.git
